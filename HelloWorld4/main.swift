@@ -8,7 +8,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
 print("Detta er fett!")
 
